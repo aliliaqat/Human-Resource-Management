@@ -6,7 +6,7 @@
     "launchBrowser": true,
     "launchUrl": "swagger",
     "iisExpress": {
-      "applicationUrl": "http://localhost:12424",
+      "applicationUrl": "http://localhost:8043/swagger/index.html",
       "sslPort": 44319
     }
   },
