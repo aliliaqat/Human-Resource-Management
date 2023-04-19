@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JFN+pQkfkWYiQfEeAf35MjlvJEXBEz1kGa/Uy51Z2peXIpXDIE3mFSZxfawAC5CAVmfEjIb/i5hLwxoNLX9LJw==",
+  "dgSpecHash": "tNfyMrxUslnHF/Ly07JgHY8zTBv7G6ybWRfY99GDiuTCBl+psYbq9e3Sp4HaMZiF1yiwioT7JzwGDA0eZwCmjA==",
   "success": true,
-  "projectFilePath": "F:\\Jenkins Project HRM\\HRM.API\\HRM.Test\\HRM.Test.csproj",
+  "projectFilePath": "F:\\Jenkins Project HRM\\Human-Resource-Management\\HRM.Test\\HRM.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Liaqat\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Liaqat\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

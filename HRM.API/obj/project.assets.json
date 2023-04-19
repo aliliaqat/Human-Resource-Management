@@ -813,11 +813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Jenkins Project HRM\\HRM.API\\HRM.API\\HRM.API.csproj",
+      "projectUniqueName": "F:\\Jenkins Project HRM\\Human-Resource-Management\\HRM.API\\HRM.API.csproj",
       "projectName": "HRM.API",
-      "projectPath": "F:\\Jenkins Project HRM\\HRM.API\\HRM.API\\HRM.API.csproj",
+      "projectPath": "F:\\Jenkins Project HRM\\Human-Resource-Management\\HRM.API\\HRM.API.csproj",
       "packagesPath": "C:\\Users\\Liaqat\\.nuget\\packages\\",
-      "outputPath": "F:\\Jenkins Project HRM\\HRM.API\\HRM.API\\obj\\",
+      "outputPath": "F:\\Jenkins Project HRM\\Human-Resource-Management\\HRM.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
