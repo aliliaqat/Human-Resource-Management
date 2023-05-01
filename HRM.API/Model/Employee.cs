@@ -8,5 +8,6 @@
         public string FathersName { get; set; }
         public string MothersName { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public DateTime DateOfJoining { get; set; }
     }
 }
